@@ -7,6 +7,10 @@ Basic application for exploring ThreeJS within Angular 7.
 This is just a sandbox app. It will be updated (when I get time) to include better means of integrating ThreeJS
 into the mix; perhaps with directives, services and state management.
 
+At the moment, it just displays a cube rendered with an image of your's truly:
+
+![image](./src/assets/images/aw-snapshot.jpg)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
