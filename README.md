@@ -5,7 +5,7 @@ Basic application for exploring ThreeJS within Angular 7.
 ## Sandbox
 
 This is just a sandbox app. It will be updated (when I get time) to include better means of integrating ThreeJS
-to the mix; perhaps with directives, services and state management.
+into the mix; perhaps with directives, services and state management.
 
 ## Development server
 
