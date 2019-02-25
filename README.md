@@ -1,6 +1,11 @@
-# ThreeSandbox
+# Angular ThreeJS Sandbox
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+Basic application for exploring ThreeJS within Angular 7.
+
+## Sandbox
+
+This is just a sandbox app. It will be updated (when I get time) to include better means of integrating ThreeJS
+to the mix; perhaps with directives, services and state management.
 
 ## Development server
 
